@@ -1,0 +1,7 @@
+C:\Users\pbhanudasdhanait\source\repos\StringEncoder\StringEncoder\bin\Debug\StringEncoder.exe.config
+C:\Users\pbhanudasdhanait\source\repos\StringEncoder\StringEncoder\bin\Debug\StringEncoder.exe
+C:\Users\pbhanudasdhanait\source\repos\StringEncoder\StringEncoder\bin\Debug\StringEncoder.pdb
+C:\Users\pbhanudasdhanait\source\repos\StringEncoder\StringEncoder\obj\Debug\StringEncoder.csproj.AssemblyReference.cache
+C:\Users\pbhanudasdhanait\source\repos\StringEncoder\StringEncoder\obj\Debug\StringEncoder.csproj.CoreCompileInputs.cache
+C:\Users\pbhanudasdhanait\source\repos\StringEncoder\StringEncoder\obj\Debug\StringEncoder.exe
+C:\Users\pbhanudasdhanait\source\repos\StringEncoder\StringEncoder\obj\Debug\StringEncoder.pdb
